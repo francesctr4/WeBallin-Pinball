@@ -1,14 +1,17 @@
-# Windbearer by Canine Duo
+# Kirby's Pinball Land by WeBallin
 
-### Current release version: Alpha
+### Current release version: None
 
 ## Team Members
 
-_**Game Design & Art:** Víctor Gil_
+_**Art & Design:** Víctor Gil_
 * **GitHub:** [Ludo-pixel](https://github.com/Ludo-pixel)
 
-_**Code & QA:** Francesc Teruel_
+_**Code & Management:** Francesc Teruel_
 * **GitHub:** [francesctr4](https://github.com/francesctr4)
+
+_**Quality Assurance (QA):** Mario García_
+* **GitHub:** [mariogs5](https://github.com/mariogs5)
 
 ## Game Description
 
@@ -22,22 +25,12 @@ _**Code & QA:** Francesc Teruel_
 
 ### KEYBOARD ###
 	
-	ENTER --> Move through screens
+	[_Work in progress_]
 	
-	A --> Move left
-	D --> Move right
-   	SPACE --> Jump (do it again mid-air to double jump)
-
 ### GAMEPAD (Not yet implemented) ###
 
 
 
 ### DEBUG KEYS ###
 
-	F1 --> Start from the first level (revives the player)
-	F3 --> Start from the beginning of the current level (revives the player)
-	F4 --> Player instantly dies
-	F5 --> Save the current game state
-	F6 --> Load the previous state 
-	F9 --> View colliders
-	F10 --> God mode (revives the player)
+	[_Work in progress_]
