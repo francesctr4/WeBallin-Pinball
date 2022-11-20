@@ -27,16 +27,16 @@ At the end, we will face the final boss of the level. Defeating him will give us
 
 ## Differences with the Original Game
 
-- Different Enemy spawns
-- Few less enemies than the original game
-- Different Ball spawn (Cannon shoots the ball in the original game)
+- Different enemy spawns
+- Less enemies than the original game
+- Different ball spawn (cannon shoots the ball in the original game)
 - The original game has more than 1 level
 - All the enemies give the same amount of points
-- The map zones that add points do not add the same amount as in the original game
--
--
--
--
+- The map distribution is different from the original
+- The original game is in black and white
+- There's a scoreboard in the original game
+- There are different game modes and boss fights in the original game
+- There are win and lose conditions in the original game
 
 ## Game Controls
 
