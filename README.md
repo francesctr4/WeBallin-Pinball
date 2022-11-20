@@ -2,7 +2,7 @@
 
 ### [WeBallin Repository](https://github.com/francesctr4/WeBallin)
 
-### Current release version: None
+### Current release version: Alpha (v0.1.0)
 
 ## Team Members
 
