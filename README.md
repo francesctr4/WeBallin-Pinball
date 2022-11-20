@@ -63,24 +63,21 @@ In this section we will explain all the problems we have faced while we were dev
 
 ### Development
 
-- Firstly, we
--
--
--
--
--
--
--
--
+- Firstly, we found the spritesheet of Kirby's Pinball Land on the internet.
+- Then, we painted all the sprites and animations.
+- We programmed the map and the chain of the walls.
+- Then we did the revolute joint of the kickers, and solved some bugs.
+- We applied the texture to the kickers.
+- We programmed the player (Kirby Ball) with its appropiate texture.
+- We added some music to the map.
+- We programmed the enemies and its animations and colliders.
+- We modified the collisions manager, and added score by hitting enemies.
+- We added the debug keys and extra functionalities.
+- Finally, we modified the coeficient of restitution of the enemies and the walls.
 
 ### Bugs
 
-- Firstly, we
--
--
--
--
--
--
--
--
+- The first bug we encountered was that, after scaling the map sprite, we forgot to scalate the chain of the walls. Then, the wall colliders were significantly smaller than what they should be. To solve this, we multiplied the chain vertices by a specific factor to scale it successfully.
+- The second bug we encountered was that the kickers got their center of mass at the center of the object, not at the axis of rotation, so we modified the function that creates a rectangle and moved the center of mass to the axis.
+- The third bug was also with the kickers, specifically with the right kicker, because the angle of rotation was diferent due to its orientation, so we had to modify the functions that create a revolute joint adding more parameters, in order to adjust the angle of rotation.
+- The last but not the least bug we found was with the coeficient of restitution of the enemies, because the ball and the enemies share the function that creates its collider. We created two different functions to distinguish between collider of Kirby and collider of enemies (the difference between them is only the coeficient of restitution).
