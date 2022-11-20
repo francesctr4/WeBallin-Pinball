@@ -17,7 +17,7 @@ _**Quality Assurance (QA):** Mario García_
 
 ## Game Description
 
-Kirby's Pinball Land is a game developed for Game Boy (the third Kirby game) released on November 28, 1993.
+Kirby's Pinball Land is a game developed for Game Boy, released on November 28, 1993.
 
 The game is like a simple pinball game, when we start with a cannon we must choose between three levels and each level consists of three pinball boards. We must handle Kirby as if it were a normal pinball ball, we must take him to the top of the whole and we must be skillful, as there will be enemies on the boards that will prevent us from climbing.
 
