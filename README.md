@@ -39,11 +39,11 @@ _**Quality Assurance (QA):** Mario García_
 	F3 --> Set score to 0
 	F4 --> Set score to 99999999
 	
-## EXCITING STUFF
+## Exciting stuff
 
 - We have implemented several enemies from all the different levels of the original game, with their respective animations.
 - We have also painted the game, as the original game was released on black and white.
 
-## DEVELOPMENT DIARY
+## Development diary
 
 fdbdbfdbf
