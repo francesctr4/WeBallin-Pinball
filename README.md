@@ -15,9 +15,11 @@ _**Quality Assurance (QA):** Mario García_
 
 ## Game Description
 
+[Link to the original game](https://youtu.be/zwrw-k74TOU)
+
 [_Work in progress_]
 
-## Objective
+## Differences with the Original Game
 
 [_Work in progress_]
 
