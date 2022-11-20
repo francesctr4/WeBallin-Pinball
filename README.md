@@ -59,4 +59,28 @@ At the end, we will face the final boss of the level. Defeating him will give us
 
 ## Development Diary
 
-fdbdbfdbf
+In this section we will explain all the problems we have faced while we were developing the game and how we have solved them:
+
+### Development
+
+- Firstly, we
+-
+-
+-
+-
+-
+-
+-
+-
+
+### Bugs
+
+- Firstly, we
+-
+-
+-
+-
+-
+-
+-
+-
