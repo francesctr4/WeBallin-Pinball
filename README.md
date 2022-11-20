@@ -17,7 +17,11 @@ _**Quality Assurance (QA):** Mario García_
 
 ## Game Description
 
-[_Work in progress_]
+Kirby's Pinball Land is a game developed for Game Boy, it is the third Kirby game, released on November 28, 1993, it is a game, as the name suggests, a pinball game. It was developed by HAL Laboratory. It is the first game in the alternate series.
+
+The game is like a simple pinball game, when we start with a cannon we must choose between three levels and each level consists of three pinball boards, we must handle Kirby as if it were a normal pinball ball, we must take him to the top of the whole, we must be skillful as there will be enemies on the boards that will prevent us from climbing Kirby, at the end we will face the final boss of the level, defeating him will give us points that we can overcome the next time we play. If Kirby falls at the end of the level we can bring him back up if we press the A button otherwise we will spend one of the three lives available so be careful.
+
+Translated with www.DeepL.com/Translator (free version)
 
 [Link to the original game](https://youtu.be/zwrw-k74TOU)
 
