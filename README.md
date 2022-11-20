@@ -31,13 +31,12 @@ _**Quality Assurance (QA):** Mario García_
 	
 	[_Work in progress_]
 	
-### GAMEPAD (Not yet implemented) ###
-
-
-
 ### DEBUG KEYS ###
 
-	[_Work in progress_]
+	F1 -->
+	F2 -->
+	F3 -->
+	F4 -->
 	
 ## EXCITING STUFF
 
